@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DDDvUQUe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/741b87500f9eip1evmj2.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=judasaca&icon=6&color=7)](https://visitcount.itsvg.in)
