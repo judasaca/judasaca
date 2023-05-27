@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/tchfer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tchfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchfer&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=judasaca&theme=monokai&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judasaca&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 ### Hi there 👋
